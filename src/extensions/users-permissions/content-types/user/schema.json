@@ -66,7 +66,7 @@
     "events": {
       "type": "relation",
       "relation": "oneToMany",
-      "target": "api::events.events",
+      "target": "api::event.event",
       "mappedBy": "user"
     }
   }
